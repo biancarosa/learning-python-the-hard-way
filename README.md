@@ -1,5 +1,7 @@
 # Learning Python The Hard Way
 
+Following the book: http://learnpythonthehardway.org/book/
+
 ## Learning notes
 
 1. ' and " can be used on a string, combined.
