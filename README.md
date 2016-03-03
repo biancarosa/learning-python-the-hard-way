@@ -7,3 +7,4 @@ Following the book: http://learnpythonthehardway.org/book/
 1. ' and " can be used on a string, combined.
 2. \# comments a line.
 3. You can print multiple words or operations(x,y,z) with print x,y,z
+4. Always add self parameter on classes methods
